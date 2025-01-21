@@ -3,8 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 
-Ovo je otvoreni šahovski turnir u kojem BILO KO može igrati. To je ono što ga čini zabavnim.  
-Na tebe je red da igraš! Povuci <!-- BEGIN TURN -->black<!-- END TURN --> figuru.
+Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
+Povuci <!-- BEGIN TURN -->black<!-- END TURN --> figuru.
 
 <!-- BEGIN CHESS BOARD -->
 |   | H | G | F | E | D | C | B | A |   |
