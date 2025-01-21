@@ -36,8 +36,6 @@ Na tebe je red da igraš! Povuci <!-- BEGIN TURN -->white<!-- END TURN --> figur
 | **H2** | [H3](https://github.com/amujalo1/amujalo1/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/amujalo1/amujalo1/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4) |
 <!-- END MOVES LIST -->
 
-Zabavljaš se? Pozovi prijatelja da odigra sljedeći potez!
-
 #### Kako funkcioniše
 
 Kada klikneš na link i pošalješ novi issue sa željenim potezom, aktivira se GitHub akcija koja pokreće mali Python skript. Skript izvrši zadani potez, ažurira ovaj README fajl i pošalje promjene.
