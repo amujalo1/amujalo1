@@ -3,41 +3,39 @@
 
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 
-This is an open chess tournament where ANYONE can play. That's the fun part.  
-It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+Ovo je otvoreni šahovski turnir u kojem BILO KO može igrati. To je ono što ga čini zabavnim.  
+Na tebe je red da igraš! Povuci <!-- BEGIN TURN -->?<!-- END TURN --> figuru.
 
 <!-- BEGIN CHESS BOARD -->
-(Here goes the chess board)
+(Ovdje ide šahovska tabla)
 <!-- END CHESS BOARD -->
 
-**It's your turn to move! Choose one from the following table**
+**Na tebe je red da igraš! Izaberi jedan od poteza iz sljedeće tabele**
 <!-- BEGIN MOVES LIST -->
-(Here goes the list of legal moves)
+(Ovdje ide lista dozvoljenih poteza)
 <!-- END MOVES LIST -->
 
-Having fun? Ask a friend to do the next move!
+Zabavljaš se? Pozovi prijatelja da odigra sljedeći potez!
 
-#### How it works
+#### Kako funkcioniše
 
-When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+Kada klikneš na link i pošalješ novi issue sa željenim potezom, aktivira se GitHub akcija koja pokreće mali Python skript. Skript izvrši zadani potez, ažurira ovaj README fajl i pošalje promjene.
 
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
 
 
 <details>
-  <summary>Last 5 moves in this game</summary>
+  <summary>Posljednjih 5 poteza u ovoj partiji</summary>
 <!-- BEGIN LAST MOVES -->
-(Here goes the list of the last 5 moves)
+(Ovdje ide lista posljednjih 5 poteza)
 <!-- END LAST MOVES -->
 </details>
 
 <details>
-  <summary>Top 10 most moves across all games</summary>
+  <summary>Top 10 najčešće igranih poteza u svim partijama</summary>
 <!-- BEGIN TOP MOVES -->
-(Here goes the top 10 most moves)
+(Ovdje ide top 10 najčešće igranih poteza)
 <!-- END TOP MOVES -->
 </details>
 
 ---
 
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
