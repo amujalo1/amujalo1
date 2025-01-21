@@ -1,5 +1,7 @@
 # GitHub README Chess Tournament
 
+
+![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
 
