@@ -1,4 +1,4 @@
-# GitHub README Chess Tournament
+# Amer Mujalo 19101
 
 
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
