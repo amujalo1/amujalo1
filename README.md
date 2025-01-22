@@ -36,8 +36,7 @@
 ## 📈 GitHub statistike
 ![Najčešće korišćeni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=amujalo1&layout=compact&theme=radical)
 
-📄 **[CV](./CV.pdf)** 
-
+[![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](https://example.com/tvoj-cv.pdf)
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
 Povuci <!-- BEGIN TURN -->black<!-- END TURN --> figuru.
