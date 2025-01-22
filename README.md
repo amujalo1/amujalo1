@@ -46,11 +46,11 @@
 
 **[Muzička podloga za popravni I-rok ovako je isto ministar Dabro u Travniku puštao 💥🔫🚘](https://www.youtube.com/watch?v=IL0rBXuBDpU&ab_channel=SarajevoDisk)**
 
-**[Muzička podloga za septembarski rok (imali ste dosta vremena, ali ga ponovno spremate 2 dana prije ispit)](https://www.youtube.com/watch?v=IL0rBXuBDpU&ab_channel=SarajevoDisk](https://www.youtube.com/watch?v=DIFrkIS_aAM&list=RDDIFrkIS_aAM&start_radio=1&ab_channel=DzemoHetfild))**
+**[Muzička podloga za septembarski rok (imali ste dosta vremena, ali ga ponovno spremate 2 dana prije ispit)](https://www.youtube.com/watch?v=DIFrkIS_aAM&list=RDDIFrkIS_aAM&start_radio=1&ab_channel=DzemoHetfild)**
 
-**[Muzička podloga za socijalni rok, osim ispita koje ste prijavili možete se slobodno i prijaviti policiji!](https://www.youtube.com/watch?v=IL0rBXuBDpU&ab_channel=SarajevoDisk](https://www.youtube.com/watch?v=DIFrkIS_aAM&list=RDDIFrkIS_aAM&start_radio=1&ab_channel=DzemoHetfild](https://www.youtube.com/watch?v=9sTQ0QdkN3Q&ab_channel=bulletvalentineVEVO)))**
+**[Muzička podloga za socijalni rok, osim ispita koje ste prijavili možete se slobodno i prijaviti policiji!](https://www.youtube.com/watch?v=9sTQ0QdkN3Q&ab_channel=bulletvalentineVEVO)**
 
-**[Muzička podloga samo za DISKRETNU MATEMATIKU!](https://www.youtube.com/watch?v=IL0rBXuBDpU&ab_channel=SarajevoDisk](https://www.youtube.com/watch?v=DIFrkIS_aAM&list=RDDIFrkIS_aAM&start_radio=1&ab_channel=DzemoHetfild)](https://www.youtube.com/watch?v=BQjbqINN77Q&ab_channel=GoldMusicTV))**
+**[Muzička podloga samo za DISKRETNU MATEMATIKU!](https://www.youtube.com/watch?v=BQjbqINN77Q&ab_channel=GoldMusicTV)**
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
 Povuci <!-- BEGIN TURN -->black<!-- END TURN --> figuru.
