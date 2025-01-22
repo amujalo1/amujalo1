@@ -8,7 +8,6 @@
 - ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat&logo=network&logoColor=white)
 
 ## 🔧 Jezici, alati i tehnologije
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -37,7 +36,7 @@
 ## 📈 GitHub statistike
 ![Najčešće korišćeni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=amujalo1&layout=compact&theme=radical)
 
-📄 **[Preuzmi moj CV](./CV.pdf)** 
+📄 **[CV](./CV.pdf)** 
 
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
