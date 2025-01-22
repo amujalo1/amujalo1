@@ -6,6 +6,8 @@
 - ![DataMiner](https://img.shields.io/badge/DataMiner-4682B4?style=flat&logo=data&logoColor=white)
 - ![Honeynets](https://img.shields.io/badge/Honeynets-FF4081?style=flat&logo=hive&logoColor=white)
 - ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat&logo=network&logoColor=white)
+- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+- ![Simulink](https://img.shields.io/badge/Simulink-FF5500?style=flat&logo=mathworks&logoColor=white)
 
 ## 🔧 Jezici, alati i tehnologije
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
