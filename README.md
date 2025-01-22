@@ -1,7 +1,44 @@
 # Amer Mujalo 19101
 
-
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
+# 💻 Trenutno radim na:
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![DataMiner](https://img.shields.io/badge/DataMiner-4682B4?style=flat&logo=data&logoColor=white)
+- ![Honeynets](https://img.shields.io/badge/Honeynets-FF4081?style=flat&logo=hive&logoColor=white)
+- ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat&logo=network&logoColor=white)
+
+## 🔧 Jezici, alati i tehnologije
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat&logo=matlab&logoColor=white)
+![SimEvents](https://img.shields.io/badge/SimEvents-0076A8?style=flat&logo=simulink&logoColor=white)
+![Mbed Studio](https://img.shields.io/badge/Mbed_Studio-003A70?style=flat&logo=arm&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=flat&logo=qt&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+
+## 📈 GitHub statistike
+![Najčešće korišćeni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=amujalo1&layout=compact&theme=radical)
+
+📄 **[Preuzmi moj CV](./CV.pdf)** 
+
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
 Povuci <!-- BEGIN TURN -->black<!-- END TURN --> figuru.
