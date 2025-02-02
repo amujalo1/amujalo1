@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 # 💻 Trenutno radim na:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - ![DataMiner](https://img.shields.io/badge/DataMiner-4682B4?style=flat&logo=data&logoColor=white)
+- ![Honeypots](https://img.shields.io/badge/Honeynets-FF4081?style=flat&logo=hive&logoColor=white)
 - ![Honeynets](https://img.shields.io/badge/Honeynets-FF4081?style=flat&logo=hive&logoColor=white)
 - ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat&logo=network&logoColor=white)
 - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-- ![Simulink](https://img.shields.io/badge/Simulink-FF5500?style=flat&logo=mathworks&logoColor=white)
 
 ## 🔧 Jezici, alati i tehnologije
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,7 +41,7 @@
 
 [![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
 
-
+**[Muzička podloga za one koji rade cobol u 2am](https://www.youtube.com/watch?v=WhZ7eikzJvk&ab_channel=baby.murcielaga)**
 
 **[Muzička podloga za I-rok 90-ih Z.Jurić fazon](https://www.youtube.com/watch?v=qUKqELVwrWE&list=RDqUKqELVwrWE&start_radio=1&ab_channel=Release-Topic](https://www.youtube.com/watch?v=qUKqELVwrWE&ab_channel=Release-Topic))**
 
@@ -52,6 +52,8 @@
 **[Muzička podloga za socijalni rok, osim ispita koje ste prijavili možete se slobodno i policiji prijaviti!](https://www.youtube.com/watch?v=9sTQ0QdkN3Q&ab_channel=bulletvalentineVEVO)**
 
 **[Muzička podloga samo za DISKRETNU MATEMATIKU!](https://www.youtube.com/watch?v=BQjbqINN77Q&ab_channel=GoldMusicTV)**
+
+**[Muzička podloga 80s (samo za radoznale)](https://www.youtube.com/watch?v=lMRr7O2ineA)**
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
 Povuci <!-- BEGIN TURN -->black<!-- END TURN --> figuru.
