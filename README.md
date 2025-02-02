@@ -37,6 +37,7 @@
 ![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 
 ## 📈 GitHub statistike
+![Najčešće korišćeni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=amujalo1&layout=compact&theme=radical)
 
 [![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
 
