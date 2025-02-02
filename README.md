@@ -1,5 +1,4 @@
 # Amer Mujalo 19101
-
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 # 💻 Trenutno radim na:
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -118,4 +117,4 @@ Kada klikneš na link i pošalješ novi issue sa željenim potezom, aktivira se 
 </details>
 
 ---
-
+01110100 01101011 01101111 00100000 01110011 01101001 00100000 01011111 00100000 01011111 00100000 01011111 00100000 00100000 01011111 00100000 01011111 00100000 01011111 00100000 01011111 00100000 01011111 00100000 01011111 00100000 01011111
