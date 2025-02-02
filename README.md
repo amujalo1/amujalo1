@@ -41,7 +41,7 @@
 
 [![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
 
-**[Muzička podloga za one koji rade cobol u 2am](https://www.youtube.com/watch?v=WhZ7eikzJvk&ab_channel=baby.murcielaga)**
+**[Muzička podloga za one koji rade COBOL u 2am](https://www.youtube.com/watch?v=WhZ7eikzJvk&ab_channel=baby.murcielaga)**
 
 **[Muzička podloga za I-rok 90-ih Z.Jurić fazon](https://www.youtube.com/watch?v=qUKqELVwrWE&list=RDqUKqELVwrWE&start_radio=1&ab_channel=Release-Topic](https://www.youtube.com/watch?v=qUKqELVwrWE&ab_channel=Release-Topic))**
 
