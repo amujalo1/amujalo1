@@ -55,6 +55,8 @@
 **[Muzička podloga 80s (samo za radoznale)](https://www.youtube.com/watch?v=lMRr7O2ineA)**
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
+<details>
+  <summary>Github šahovski turnir</summary>
 Povuci <!-- BEGIN TURN -->black<!-- END TURN --> figuru.
 
 <!-- BEGIN CHESS BOARD -->
@@ -115,6 +117,6 @@ Kada klikneš na link i pošalješ novi issue sa željenim potezom, aktivira se 
 
 <!-- END TOP MOVES -->
 </details>
+</details>
 
----
 
