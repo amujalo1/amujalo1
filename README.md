@@ -40,6 +40,16 @@
 
 [![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
 
+<details>
+  <summary>Melodías Perdidas en el Tiempo de la Alhambra</summary>
+  
+  **[Melodía uno (Paco)](https://www.youtube.com/watch?v=qxK2zoI49UM&ab_channel=Musica%26Afins)**
+  
+  **[Melodía dos](https://www.youtube.com/watch?v=bu7wcGnEw_Q&ab_channel=LucasGitanoFamily)**
+
+  **[Melodía tres](https://www.youtube.com/watch?v=8O0cIOKuT4c&ab_channel=LucasGitanoFamily)**
+</details>
+
 **[Muzička podloga za one koji rade COBOL u 2am](https://www.youtube.com/watch?v=WhZ7eikzJvk&ab_channel=baby.murcielaga)**
 
 **[Muzička podloga za I-rok 90-ih Z.Jurić fazon](https://www.youtube.com/watch?v=qUKqELVwrWE&list=RDqUKqELVwrWE&start_radio=1&ab_channel=Release-Topic](https://www.youtube.com/watch?v=qUKqELVwrWE&ab_channel=Release-Topic))**
