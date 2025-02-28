@@ -1,12 +1,14 @@
 # Amer Mujalo 19101
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 # 💻 Trenutno radim na:
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-- ![DataMiner](https://img.shields.io/badge/DataMiner-4682B4?style=flat&logo=data&logoColor=white)
-- ![Honeypots](https://img.shields.io/badge/Honeynets-FF4081?style=flat&logo=hive&logoColor=white)
-- ![Honeypots](https://img.shields.io/badge/Honeypots-FF4081?style=flat&logo=hive&logoColor=white)
-- ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat&logo=network&logoColor=white)
-- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
+- ![Honeypots](https://img.shields.io/badge/Honeypots-FF4081?style=flat&logo=hive&logoColor=white)  
+- ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat&logo=network&logoColor=white)  
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![DataMiner](https://img.shields.io/badge/DataMiner-4682B4?style=flat&logo=data&logoColor=white)  
+  
+
 
 ## 🔧 Jezici, alati i tehnologije
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
