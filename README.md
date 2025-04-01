@@ -60,11 +60,9 @@
 
 **[Muzička podloga za septembarski rok (imali ste dosta vremena, ali ga ponovno spremate 2 dana prije ispit)](https://www.youtube.com/watch?v=DIFrkIS_aAM&list=RDDIFrkIS_aAM&start_radio=1&ab_channel=DzemoHetfild)**
 
-**[Muzička podloga za socijalni rok, osim ispita koje ste prijavili možete se slobodno i policiji prijaviti!](https://www.youtube.com/watch?v=9sTQ0QdkN3Q&ab_channel=bulletvalentineVEVO)**
-
 **[Muzička podloga samo za DISKRETNU MATEMATIKU!](https://www.youtube.com/watch?v=BQjbqINN77Q&ab_channel=GoldMusicTV)**
 
-**[Muzička podloga 80s (samo za radoznale)](https://www.youtube.com/watch?v=lMRr7O2ineA)**
+**[Muzička podloga (samo za radoznale)](https://www.youtube.com/watch?v=jahKyTWI5AM)**
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
 <details>
