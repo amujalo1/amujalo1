@@ -1,5 +1,8 @@
 # Amer Mujalo 19101
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
+
+[📄 HackerRank profil](https://www.hackerrank.com/amujalo1)  
+[📁 HackerRank certifikati (repozitorij)](https://github.com/amujalo1/HackerRank)
 # 💻 Trenutno radim na:
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
 - ![Honeypots](https://img.shields.io/badge/Honeypots-FF4081?style=flat&logo=hive&logoColor=white)  
