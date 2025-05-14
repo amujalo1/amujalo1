@@ -1,8 +1,10 @@
 # Amer Mujalo 19101
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 
+[💼 Poslovni GitHub nalog (HTEC)](https://github.com/amujalo2)
+
 [📄 HackerRank profil](https://www.hackerrank.com/amujalo1)  
-[📁 HackerRank certifikati (repozitorij)](https://github.com/amujalo1/HackerRank)
+[📁 HackerRank certifikati (repozitorij)](https://github.com/amujalo1/HackerRank)  
 # 💻 Trenutno radim na:
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
 - ![Honeypots](https://img.shields.io/badge/Honeypots-FF4081?style=flat&logo=hive&logoColor=white)  
@@ -49,7 +51,7 @@
 ## 📈 GitHub statistike
 ![Najčešće korišćeni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=amujalo1&layout=compact&theme=radical)
 
-[![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
+[![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](./AmerMujaloCV.pdf)
 
 <details>
   <summary>Melodías Perdidas en el Tiempo de la Alhambra</summary>
