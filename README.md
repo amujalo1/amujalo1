@@ -6,11 +6,11 @@
 [📄 HackerRank profil](https://www.hackerrank.com/amujalo1)  
 [📁 HackerRank certifikati (repozitorij)](https://github.com/amujalo1/HackerRank)  
 # 💻 Trenutno radim na:
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
 - ![Honeypots](https://img.shields.io/badge/Honeypots-FF4081?style=flat&logo=hive&logoColor=white)  
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-- ![DataMiner](https://img.shields.io/badge/DataMiner-4682B4?style=flat&logo=data&logoColor=white)  
 - ![Metasploit](https://img.shields.io/badge/Metasploit-5A5A5A?style=flat&logo=metasploit&logoColor=white)  
 - ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=flat&logo=eye&logoColor=white)  
 
@@ -24,6 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
