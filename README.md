@@ -1,4 +1,15 @@
 # Amer Mujalo 19101
+
+┌────────────────────────────┐
+
+
+│ **I use Arch 🐧 and Neovim 📝, btw!**    
+
+
+
+└────────────────────────────┘
+
+
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 
 [💼 Poslovni GitHub nalog (HTEC)](https://github.com/amujalo2)
