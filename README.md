@@ -12,20 +12,16 @@
 
 ![](https://komarev.com/ghpvc/?username=amujalo1&color=blue)
 
-[💼 Poslovni GitHub nalog (HTEC)](https://github.com/amujalo2)
+[HTEC nalog](https://github.com/amujalo2)
 
 [📄 HackerRank profil](https://www.hackerrank.com/amujalo1)  
-[📁 HackerRank certifikati (repozitorij)](https://github.com/amujalo1/HackerRank)  
+
 # 💻 Trenutno radim na:
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+- ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
-- ![Honeypots](https://img.shields.io/badge/Honeypots-FF4081?style=flat&logo=hive&logoColor=white)  
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-- ![Metasploit](https://img.shields.io/badge/Metasploit-5A5A5A?style=flat&logo=metasploit&logoColor=white)  
-- ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=flat&logo=eye&logoColor=white)  
-
-  
 
 
 ## 🔧 Jezici, alati i tehnologije
@@ -85,7 +81,7 @@
 
 **[Muzička podloga samo za DISKRETNU MATEMATIKU!](https://www.youtube.com/watch?v=BQjbqINN77Q&ab_channel=GoldMusicTV)**
 
-**[Muzička podloga (samo za radoznale)](https://www.youtube.com/watch?v=jahKyTWI5AM)**
+**[Muzička podloga (samo za radoznale)](https://www.youtube.com/watch?v=Zhaz_30H_0w)**
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
 <details>
