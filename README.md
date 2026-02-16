@@ -22,8 +22,6 @@
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 
-[![CV](https://img.shields.io/badge/CV-Preuzmi-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](./Amer'sResume.pdf)
-
 <details>
   <summary>Melodías Perdidas en el Tiempo de la Alhambra</summary>
   
@@ -35,16 +33,6 @@
 </details>
 
 **[Muzička podloga za one koji rade COBOL u 2am](https://www.youtube.com/watch?v=WhZ7eikzJvk&ab_channel=baby.murcielaga)**
-
-**[Muzička podloga za I-rok 90-ih Z.Jurić fazon](https://www.youtube.com/watch?v=qUKqELVwrWE&list=RDqUKqELVwrWE&start_radio=1&ab_channel=Release-Topic](https://www.youtube.com/watch?v=qUKqELVwrWE&ab_channel=Release-Topic))**
-
-**[Muzička podloga za popravni I-rok ovako je isto ministar Dabro u Travniku puštao 💥🔫🚘](https://www.youtube.com/watch?v=IL0rBXuBDpU&ab_channel=SarajevoDisk)**
-
-**[Muzička podloga za septembarski rok (imali ste dosta vremena, ali ga ponovno spremate 2 dana prije ispit)](https://www.youtube.com/watch?v=DIFrkIS_aAM&list=RDDIFrkIS_aAM&start_radio=1&ab_channel=DzemoHetfild)**
-
-**[Muzička podloga samo za DISKRETNU MATEMATIKU!](https://www.youtube.com/watch?v=BQjbqINN77Q&ab_channel=GoldMusicTV)**
-
-**[Muzička podloga (samo za radoznale)](https://www.youtube.com/watch?v=Zhaz_30H_0w)**
 
 Ovo je otvoreni šahovski turnir u kojem BILO TKO može igrati.
 <details>
